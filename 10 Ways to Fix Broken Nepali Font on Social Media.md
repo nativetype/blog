@@ -2,7 +2,7 @@
 title: "How to Fix Broken Nepali Font on Facebook, Instagram, TikTok & LinkedIn (Unicode Solution)"
 date: "2026-02-07"
 excerpt: "Nepali text breaking on Facebook, Instagram, TikTok, or LinkedIn? The issue isn’t the platform; it’s incorrect Unicode typing."
-categories: ["script", "learning"]
+categories: ["scripts", "learning"]
 published: true
 thumbnail: "https://i.ibb.co/4Zts43Yk/how-to.png"
 ---
