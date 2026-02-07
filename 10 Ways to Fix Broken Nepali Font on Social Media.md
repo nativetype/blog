@@ -165,11 +165,11 @@ If you correct these 9 mistakes you are already preventing 90% of the Nepali Uni
 
 ## Fix #10: Use nativetype for your Nepali Content
 Nativetype.com is best for Nepali users as it provides.
-1. **Virtual Keyboard for Nepali Unicode Typing**: One of the accurate and complete keyboards for Nepali Unicode Typing.
-2. **Free Preeti to Unicode Converter**: Paste Preeti text. Convert to Unicode.
-3. **Nepali Unicode Document Editor**: Document Editor uses nativetype virtual keyboard to provide you with the most reliable text editor for your social media content in Nepali.
-4. **Learn Nepali Typing Unicode**: Fix your long term Nepali typing with typing lessons.
-5. **Roman to Nepali Unicode**: This amazing tool allows you to type in Roman to give you accurate Nepali Unicode that you can simply copy and use anywhere.
+1. **Virtual Keyboard for Nepali Unicode Typing**: One of the accurate and complete keyboards for [Nepali Unicode Typing](https://nativetype.com/keyboard/nepali).
+2. **Free Preeti to Unicode Converter**: Paste Preeti text. [Convert Preeti to Unicode](https://nativetype.com/tools/preeti-to-unicode).
+3. **Nepali Unicode Document Editor**: [Nepali Document Editor](https://nativetype.com/editor/nepali) uses nativetype virtual keyboard to provide you with the most reliable text editor for your social media content in Nepali.
+4. **Learn Nepali Typing Unicode**: Fix your long term [Nepali typing with typing lessons](https://nativetype.com/typing/nepali).
+5. **Roman to Nepali Unicode**: This amazing tool [Roman to Nepali](https://nativetype.com/tools/roman-to-nepali) allows you to type in Roman to give you accurate Nepali Unicode that you can simply copy and use anywhere.
 
 The best part is nativetype is free for all.
 
