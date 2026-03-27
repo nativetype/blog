@@ -1,15 +1,11 @@
 ---
 title: "I Solved a 15+ Year Headache for Nepali Professionals"
 date: "2026-03-27"
-excerpt: "Nativetype now supports an Urdu keyboard for easy online Urdu typing. A simple, fast way to type in Urdu without extra tools or apps."
+excerpt: "For 15+ year, converting Preeti .DOCX files to Unicode has been a nightmare for Nepali professionals. Today, I solved it. direct .DOCX Preeti to Unicode conversion in your browser - local, private, and preserves formatting. "
 categories: ["tech"]
 published: true
 thumbnail: "https://i.ibb.co/5Xr5jZgL/preeti-to-ucicode-file.png"
 ---
-
-For 15+ year, converting Preeti .DOCX files to Unicode has been a nightmare for Nepali professionals.
-
-Today, I solved it. direct .DOCX Preeti to Unicode conversion in your browser - local, private, and preserves formatting. 
 
 No more tedious copy-pasting.
 
