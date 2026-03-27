@@ -4,7 +4,7 @@ date: "2026-03-27"
 excerpt: "Nativetype now supports an Urdu keyboard for easy online Urdu typing. A simple, fast way to type in Urdu without extra tools or apps."
 categories: ["tech"]
 published: true
-thumbnail: "https://i.ibb.co/20RgWz98/urdu-keyboard.jpg"
+thumbnail: "https://i.ibb.co/5Xr5jZgL/preeti-to-ucicode-file.png"
 ---
 
 For 15+ year, converting Preeti .DOCX files to Unicode has been a nightmare for Nepali professionals.
