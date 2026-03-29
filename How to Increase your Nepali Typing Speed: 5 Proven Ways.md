@@ -2,7 +2,7 @@
 title: "How to Increase your Nepali Typing Speed: 5 Proven Ways"
 date: "2026-03-08"
 excerpt: "Want to type Nepali faster? Use Nativetype's free tools—including Easy, Medium & Hard typing tests to track your WPM and master Devanagari. Start now!"
-categories: ["script", "learning"]
+categories: ["scripts", "learning"]
 published: true
 thumbnail: "https://i.ibb.co/hRYgMnRS/improve-nepali-cover.png"
 ---
