@@ -11,6 +11,8 @@ Every Limbu speaker knows the struggle: you want to write in Sirijanga, but end 
 
 Now, you don’t have to become an IT technician to type in your own language, Limbu (Sirijanga Script).
 
+Learn **[What is Sirijanga Script](https://nativetype.com/blog/read/limbu-language-and-sirijanga-script)** in details with its dialects, and history.
+
 Most people don’t write long essays in Limbu
 They write:
 - A Facebook post.
