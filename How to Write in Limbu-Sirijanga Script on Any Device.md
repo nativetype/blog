@@ -1,6 +1,7 @@
 ---
 title: "How to Write in Limbu-Sirijanga Script on Any Device | Limbu Keyboard Guide"
 date: "2026-06-09"
+last_modified_at: "2026-06-23"
 excerpt: "Learn how to type in Limbu (Sirijanga) script on Windows, Mac, Android, iPhone, and Chromebook. No complicated setup, downloads, or keyboard installation required."
 categories: ["scripts", "learning"]
 published: true
@@ -31,6 +32,10 @@ You open Google or ChatGPT
 Search for “"Limbu keyboard download"
 
 Links are broken, some only work on windows, require to install, and ask to add fonts.
+
+<a href="https://nativetype.com/keyboard/limbu" class="btn-p" target="_blank">
+  <button>Type in Sirijanga Limbu</button>
+</a>
 
 ## The Easiest Way: Type Limbu
 Instead of installing keyboards, downloading software, or memorizing layouts, you can use a browser-based Limbu typing tool.

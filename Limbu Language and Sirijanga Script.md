@@ -9,6 +9,9 @@ thumbnail: "https://i.ibb.co/bRCndMxs/limbu-language-and-sirijanga-script.jpg"
 ---
 ## Limbu (ᤕᤠᤰᤌᤢᤱ)
 Limbu (Yakthung: ᤕᤠᤰᤌᤢᤱ) people are the branch of Sino-Tibetan linguistic family, indigenous communities of Himalayan region of eastern Nepal, India and Bhutan. Also known as Yakthung in their own language. The estimated population of the Limbu is 600,000. Significant numbers of Limbu population are scattered in Sikkim, Darjeeling, Kalimpong, Assam, Nagaland, Myanmar, UK, Hong Kong, United States and other countries.
+<a href="https://nativetype.com/keyboard/limbu" class="btn-p" target="_blank">
+  <button>Type in Limbu Keyboard</button>
+</a>
 ## Limbu Language
 The Limbu language in their native language is called yakthung pan (ᤕᤠᤰᤌᤢᤱ ᤐᤠᤴ). The script to write Limbu language is called Sirijanga script.
 
