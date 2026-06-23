@@ -1,6 +1,7 @@
 ---
 title: "I Solved a 15+ Year Headache for Nepali Professionals"
 date: "2026-03-27"
+last_modified_at: "2026-06-23"
 excerpt: "For 15+ year, converting Preeti .DOCX files to Unicode has been a nightmare for Nepali professionals. Today, I solved it. direct .DOCX Preeti to Unicode conversion in your browser - local, private, and preserves formatting. "
 categories: ["tech"]
 published: true
@@ -17,7 +18,9 @@ I'm excited to share that at nativetype.com — a privacy-first web app for nati
 
 **Free DOCX Preeti to Unicode Converter**
 
-→ Try it here: [Preeti Document (.docx) to Unicode Converter ](https://nativetype.com/tools/docx-preeti-to-unicode-converter)
+→ Try it here: <a href="https://nativetype.com/tools/docx-preeti-to-unicode-converter" class="btn-p" target="_blank">
+  <button>Preeti Document (.docx) to Unicode Converter</button>
+</a>
 
 ## What makes this tool unique?
 - **Convert and download instantly:** No copy-paste is required.

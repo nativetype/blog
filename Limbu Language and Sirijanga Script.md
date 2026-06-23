@@ -12,6 +12,7 @@ Limbu (Yakthung: ᤕᤠᤰᤌᤢᤱ) people are the branch of Sino-Tibetan lingu
 <a href="https://nativetype.com/keyboard/limbu" class="btn-p" target="_blank">
   <button>Type in Limbu Keyboard</button>
 </a>
+
 ## Limbu Language
 The Limbu language in their native language is called yakthung pan (ᤕᤠᤰᤌᤢᤱ ᤐᤠᤴ). The script to write Limbu language is called Sirijanga script.
 

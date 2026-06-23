@@ -1,6 +1,7 @@
 ---
 title: "How to Convert Preeti to Unicode in Seconds A Step-by-Step Guide"
 date: "2026-01-25"
+last_modified_at: "2026-06-23"
 excerpt: "Learn how to convert Preeti font to Unicode in seconds using NativeType. Our step-by-step guide makes Nepali typing easy, SEO-friendly, and mobile-ready for everyone."
 categories: ["tech", "scripts"]
 published: true
