@@ -1,6 +1,7 @@
 ---
 title: "Limbu Language and Sirijanga Script"
 date: "2026-06-14"
+last_modified_at: "2026-06-23"
 excerpt: "Learn about Sirijanga Script, the traditional writing system of the Limbu language. Explore its history, and how to type Sirijanga online using Nativetype."
 categories: ["scripts"]
 published: true
@@ -66,3 +67,10 @@ Some basic words in Limbu with transliteration and Sirijanga script:
 A script stays alive when people use it.
 
 If you’d like to start typing Sirijanga script, try Nativetype’s Sirijanga tools directly from your browser.
+
+<a href="https://nativetype.com/keyboard/limbu" target="_blank">
+  <button>Type in Limbu Keyboard</button>
+</a>
+<a href="https://nativetype.com/editor/limbu?doc=mlhsju3ek27esvbjfa" target="_blank">
+  <button>Limbu Document Editor</button>
+</a>
