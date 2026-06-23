@@ -68,9 +68,9 @@ A script stays alive when people use it.
 
 If you’d like to start typing Sirijanga script, try Nativetype’s Sirijanga tools directly from your browser.
 
-<a href="https://nativetype.com/keyboard/limbu" target="_blank">
+<a href="https://nativetype.com/keyboard/limbu" class="btn-p" target="_blank">
   <button>Type in Limbu Keyboard</button>
 </a>
-<a href="https://nativetype.com/editor/limbu?doc=mlhsju3ek27esvbjfa" target="_blank">
+<a href="https://nativetype.com/editor/limbu?doc=mlhsju3ek27esvbjfa" class="btn-s" target="_blank">
   <button>Limbu Document Editor</button>
 </a>
