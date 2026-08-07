@@ -20,9 +20,9 @@ Touch typing is an ability to type fluidly on muscle memory rather than visual s
 
 ## TL;DR
 Extreme summarization for someone impatient.
-1. Go to [nativetype.com/learn-touch-typing](nativetype.com/learn-touch-typing) to learn touch typing to place every finger correctly, reach every key, and type naturally without looking.
-2. After learning the basics, go to [nativetype.com/typing/english](nativetype.com/typing/english) to build muscle memory with isolated drills.
-3. Test and improve your accuracy and speed with [nativetype.com/test/english](nativetype.com/test/english) target 30+ WPM (2-3) weeks
+1. Go to [nativetype.com/learn-touch-typing](https://nativetype.com/learn-touch-typing) to learn touch typing to place every finger correctly, reach every key, and type naturally without looking.
+2. After learning the basics, go to [nativetype.com/typing/english](https://nativetype.com/typing/english) to build muscle memory with isolated drills.
+3. Test and improve your accuracy and speed with [nativetype.com/test/english](https://nativetype.com/test/english) target 30+ WPM (2-3) weeks
 4. Continue learning until you reach your targeted WPM with at least 95% accuracy.
 
 ## Step 1: The Hardest Part - The Foundation
@@ -38,8 +38,8 @@ You don’t need to memorize all of this at once. You’ll absorb it naturally a
 ![Touch Typing Finger Placemeny](https://i.ibb.co/z1BV0mK/Touch-typing-Finger-Placement.jpg)
 
 At this stage you’ll learn finger placement, reaching different keys and building muscle memory from isolated drills. 
-* Start from touch typing guide [nativetype.com/learn-touch-typing](nativetype.com/learn-touch-typing) that guides you step-by-step from the ergonomics to finger placements and reaching keys.
-* Work through the foundational lessons [nativetype.com/typing/english](nativetype.com/typing/english) to build muscle memory.
+* Start from touch typing guide [nativetype.com/learn-touch-typing](https://nativetype.com/learn-touch-typing) that guides you step-by-step from the ergonomics to finger placements and reaching keys.
+* Work through the foundational lessons [nativetype.com/typing/english](https://nativetype.com/typing/english) to build muscle memory.
 
 Use nativetype.com to learn the basics of touch typing. You don’t need an account to track your progress. Every lesson on Nativetype is free, short and tested. You need to complete each lesson to move to the next one.
 
@@ -91,4 +91,4 @@ Clutter directly impacts typing efficiency. Clearing a wide, open workspace lets
 2. **Buy Good Keyboard**
 Upgrading to a quality mechanical keyboard gives you clear physical actuation points, letting you know precisely when a key registers without bottoming out hard. 
 3. **Play Typing Games**
-Practicing through interactive games on [nativetype.com/games](nativetype.com/games) turns muscle memory drills into engaging challenges that help break through speed plateaus:
+Practicing through interactive games on [nativetype.com/games](https://nativetype.com/games) turns muscle memory drills into engaging challenges that help break through speed plateaus:
